@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+  <property>
+    <name>fs.azure.account.auth.type.nlpsparkdev.dfs.core.windows.net</name>
+    <value>SharedKey</value>
+    <description>
+    </description>
+  </property>
+  <property>
+    <name>fs.azure.account.key.nlpsparkdev.dfs.core.windows.net</name>
+    <value>1A0GxnV86EJFd5YB4B1oXww3Fg+pTp34TOl0Z9q40qWzWNNS25xQjn4L5uwSvyTlYHWf2DtVdQFyDWUxIf4AVw==</value>
+    <description>
+    The secret password. Never share these.
+    </description>
+  </property>
+</configuration>

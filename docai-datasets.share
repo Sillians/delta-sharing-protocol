@@ -1,0 +1,5 @@
+{
+    "shareCredentialsVersion": 1,
+    "endpoint": "http://localhost:9999/delta-sharing",
+    "bearerToken": "1A0GxnV86EJFd5YB4B1oXww3F"
+}
